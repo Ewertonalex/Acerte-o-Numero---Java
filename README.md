@@ -11,6 +11,8 @@
 
 https://github.com/Ewertonalex/Acerte-o-Numero---Java/blob/main/tedwhile.java
 
+![](https://github.com/Ewertonalex/Acerte-o-Numero---Java/blob/main/res.jpg)
+
 ---
 
 <h4 align="center">
