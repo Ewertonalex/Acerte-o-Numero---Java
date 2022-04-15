@@ -1,6 +1,7 @@
-## Acerte o Número usando Java
+# Acerte o Número usando Java
 
-## Desafio proposto na disciplina de Lógica de Programação I, pelo Professor Thiago Vasconcelos.
+### Desafio proposto na disciplina de Lógica de Programação I, pelo Professor Thiago Vasconcelos.
+---
 
 ## Desafio:
 
